@@ -41,7 +41,7 @@ CREATE TABLE `admin` (
 
 INSERT INTO `admin` (`admin_id`, `pwd`, `staff_id`, `name`, `email`) VALUES
 ('abc', 'passpass', 'sub_admin', 'ewew sds', '12112@hgad.com'),
-('admin', 'passpass', 'admin', 'Ariful Islam Saimon', 'tawshiq.rafi02@gmail.com'),
+('admin', 'passpass', 'admin', 'Ariful Islam Saimon', 'rafi@rafi.com'),
 ('sub', 'passpass', 'sub_admin', 'ewew sds', '12112@hgad.com');
 
 -- --------------------------------------------------------
